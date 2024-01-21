@@ -1,0 +1,9 @@
+{
+	"id": "DGS82VkygKTVXJd",
+	"json": "{\"id\":\"DGS82VkygKTVXJd\",\"url\":\"https://thenerdstack.com\",\"loadedUrl\":\"https://thenerdstack.com/\",\"uniqueKey\":\"https://thenerdstack.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-01-21T01:09:39.214Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://thenerdstack.com",
+	"url": "https://thenerdstack.com"
+}
